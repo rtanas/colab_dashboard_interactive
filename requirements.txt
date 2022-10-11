@@ -2,3 +2,5 @@ pandas
 matplotlib
 voila
 ipywidgets
+google.colab
+ipympl
